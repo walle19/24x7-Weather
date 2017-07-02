@@ -1,46 +1,33 @@
 # 24x7-Weather App
 
-Description
+# Description
 24/7 Weather is an iOS application for iPhone platform that will provide the weather information of
 current or desired location of end-user. This application will anticipate and respond to user
 expectations, provide a smooth navigational experience, and appropriately reflect the end result.
-Application Specification
+
+# Application Specification
 iOS version: 10.0 and above
 Platform: iPhone only
 Orientation: Portrait only
-Compatible devices:
-• iPhone 4S
-• iPhone 5/5C/5S
-• iPhone 6/6 Plus
-• iPhone 6S/6S Plus
-• iPhone 7/7 Plus
-• iPhone 7S/7S Plus
-Feature
-App will:x
-• Let user select from different cities (added by user)
-• Add new city for weather information using map
-• Search for city/place using search option in Add City screen
-• Show details of weather information of current date
-• Show forecast for next 5 days
-• Audio based weather report (in Main and Forecast screen)
-• User can mute/un-mute the audio based weather report
-iOS SDK used:
-!1
+Compatible devices: iPhone 4S | iPhone 5/5C/5S | iPhone 6/6 Plus | iPhone 6S/6S Plus | iPhone 7/7 Plus | iPhone 7S/7S Plus
 
-24/7 WEATHER APP
-• UITableView and UITableViewCell
-• UserDefaults
-• UIPageViewController
-• CoreLocation framework
-• Social framework
-• MKMapView
-• AVFoundation
-• QuartzCore
+# Feature
+_App will:_
+  * Let user select from different cities (added by user)
+  * Add new city for weather information using map
+  * Search for city/place using search option in Add City screen
+  * Show details of weather information of current date
+  * Show forecast for next 5 days
+  * Audio based weather report (in Main and Forecast screen)
+  * User can mute/un-mute the audio based weather report
 
-API consumed:
-• Open Weather API - for weather information
-• Pixabay - for city image
-Application
+_iOS SDK used:_ UITableView and UITableViewCell | UserDefaults | UIPageViewController | CoreLocation framework | Social framework | MKMapView | AVFoundation | QuartzCore
+
+_API consumed:_
+  * Open Weather API - for weather information
+  * Pixabay - for city image
+
+# Application
 1. Initially new user will be shown walk through to give a brief overview of the application.
 2. In home screen, initially current location of user is used to fetch the weather via open weather api and populated
 on screen.
