@@ -40,3 +40,11 @@ already installed in his/her iphone)
 can add one city at a time). To add city, user needs to tap on pin to see pop-up with ‘+’ button. After tap, user
 will be taken to cities list screen.
 8. Weather siri would provide a audio based weather report for user and user can mute/un-mute the weather siri.
+
+# Application Screenshot
+![alt text](https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1830.jpg)
+![alt text](https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1831.jpg)
+![alt text](https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1832.jpg)
+![alt text](https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1833.jpg)
+![alt text](https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1838.jpg)
+
