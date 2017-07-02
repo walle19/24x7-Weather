@@ -42,8 +42,8 @@ will be taken to cities list screen.
 8. Weather siri would provide a audio based weather report for user and user can mute/un-mute the weather siri.
 
 # Application Screenshot
-<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1830.jpg" width="300" margin-bottom"10">
-<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1831.jpg" width="300" margin-bottom"10">
-<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1832.jpg" width="300" margin-bottom"10">
-<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1833.jpg" width="300" margin-bottom"10">
-<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1838.jpg" width="300" margin-bottom"10">
+<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1830.jpg" width="300" margin-bottom="10">
+<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1831.jpg" width="300" margin-bottom="10">
+<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1832.jpg" width="300" margin-bottom="10">
+<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1833.jpg" width="300" margin-bottom="10">
+<img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1838.jpg" width="300" margin-bottom="10">
