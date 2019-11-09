@@ -47,3 +47,11 @@ will be taken to cities list screen.
 <img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1832.jpg" width="300" margin-bottom="10" align="left">
 <img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1833.jpg" width="300" margin-bottom="10" align="right">
 <img src="https://github.com/walle19/24x7-Weather/blob/master/Screenshot/IMG_1838.jpg" width="300" margin-bottom="10" align="left">
+
+### Author
+
+[Nikhil Wali](https://github.com/walle19)
+
+### License
+
+Copyright © 2017, [Nikhil Wali](https://github.com/walle19).
